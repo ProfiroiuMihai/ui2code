@@ -1,16 +1,18 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class Component1 extends StatelessWidget {
+class Component1 extends StatefulWidget {
+  @override
+  _Component1State createState() => _Component1State();
+}
 
+class _Component1State extends State<Component1> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-        body: Container(
-        color: Colors.white,
-        child: LayoutBuilder(builder: (context, constraints) {
-      if (constraints.maxHeight < constraints.maxWidth &&
-          constraints.maxWidth > 900)
+    return Container(
+          child: LayoutBuilder(builder: (context, constraints) {
+            if (true &&
+                constraints.maxWidth > 000)
               return Container(
                 width: double.infinity,
                 child: Row(
@@ -33,7 +35,7 @@ class Component1 extends StatelessWidget {
                 child: getMainPage(),
               );
           }),
-        ));
+    );
   }
 
   getMainPage() {

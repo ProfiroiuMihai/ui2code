@@ -1,0 +1,755 @@
+{
+  "document": {
+    "id": "0:0",
+    "type": "DOCUMENT",
+    "name": "Untitled",
+    "pages": [
+      {
+        "id": "0:1",
+        "type": "PAGE",
+        "name": "Page 1",
+        "children": [
+          {
+            "id": "25:3",
+            "type": "FRAME",
+            "name": "Frame 3",
+            "element": {
+              "type": "frame",
+              "params": {}
+            },
+            "positioning": {
+              "x": -1491,
+              "y": -817,
+              "width": 1134,
+              "height": 674,
+              "rotation": 0
+            },
+            "children": [
+              {
+                "id": "36:2",
+                "type": "TEXT",
+                "name": "213",
+                "element": {
+                  "type": "text",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 159,
+                  "y": 99,
+                  "width": 61,
+                  "height": 31,
+                  "rotation": 0
+                },
+                "characters": "213\n",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "textAutoResize": "NONE",
+                "paragraphIdent": 0,
+                "paragraphSpacing": 0,
+                "fontSize": 12,
+                "fontName": {
+                  "family": "Roboto",
+                  "style": "Regular"
+                },
+                "textDecoration": "NONE",
+                "letterSpacing": "0%",
+                "lineHeight": "auto",
+                "color": [
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              },
+              {
+                "id": "37:2",
+                "type": "UNKNOWN",
+                "name": "Rectangle 4",
+                "element": {
+                  "type": "button",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 300,
+                  "y": 41,
+                  "width": 216,
+                  "height": 89,
+                  "rotation": 0
+                },
+                "figmaType": "RECTANGLE",
+                "color": [
+                  1,
+                  0,
+                  0,
+                  1
+                ]
+              },
+              {
+                "id": "37:4",
+                "type": "GROUP",
+                "name": "Group 2",
+                "element": {
+                  "type": "list",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 372,
+                  "y": 145,
+                  "width": 72,
+                  "height": 27,
+                  "rotation": 0
+                },
+                "children": [
+                  {
+                    "id": "37:3",
+                    "type": "UNKNOWN",
+                    "name": "Rectangle 5",
+                    "element": {
+                      "type": "inputfield",
+                      "params": {}
+                    },
+                    "positioning": {
+                      "x": 372,
+                      "y": 145,
+                      "width": 72,
+                      "height": 27,
+                      "rotation": 0
+                    },
+                    "figmaType": "RECTANGLE",
+                    "color": [
+                      0.1686665564775467,
+                      0.03333336114883423,
+                      1,
+                      1
+                    ]
+                  }
+                ]
+              }
+            ],
+            "color": [
+              0.5208333134651184,
+              0.5121527314186096,
+              0.5121527314186096,
+              1
+            ]
+          },
+          {
+            "id": "24:2",
+            "type": "FRAME",
+            "name": "Frame 2",
+            "element": {
+              "type": "frame",
+              "params": {}
+            },
+            "positioning": {
+              "x": -1325,
+              "y": -575,
+              "width": 136,
+              "height": 255,
+              "rotation": 0
+            },
+            "children": [
+              {
+                "id": "25:2",
+                "type": "UNKNOWN",
+                "name": "Rectangle 1",
+                "element": {
+                  "type": "removed",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 42,
+                  "y": 85,
+                  "width": 52,
+                  "height": 84,
+                  "rotation": 0
+                },
+                "figmaType": "RECTANGLE",
+                "color": [
+                  0.7686274647712708,
+                  0.7686274647712708,
+                  0.7686274647712708,
+                  1
+                ]
+              }
+            ],
+            "color": [
+              1,
+              1,
+              1,
+              1
+            ]
+          },
+          {
+            "id": "21:2",
+            "type": "FRAME",
+            "name": "Frame 1",
+            "element": {
+              "type": "frame",
+              "params": null
+            },
+            "positioning": {
+              "x": -828,
+              "y": -831,
+              "width": 379,
+              "height": 650,
+              "rotation": 0
+            },
+            "children": [
+              {
+                "id": "65:2",
+                "type": "UNKNOWN",
+                "name": "Rectangle 2",
+                "element": {
+                  "type": "image",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 104.5,
+                  "y": 54,
+                  "width": 136,
+                  "height": 145,
+                  "rotation": 0
+                },
+                "figmaType": "VECTOR",
+                "color": [
+                  0.7686274647712708,
+                  0.7686274647712708,
+                  0.7686274647712708,
+                  1
+                ]
+              },
+              {
+                "id": "28:4",
+                "type": "GROUP",
+                "name": "Group 1",
+                "element": {
+                  "type": "removed",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 87,
+                  "y": 145,
+                  "width": 173,
+                  "height": 112,
+                  "rotation": 0
+                },
+                "children": [
+                  {
+                    "id": "50:2",
+                    "type": "FRAME",
+                    "name": "Frame 4",
+                    "positioning": {
+                      "x": 221,
+                      "y": 225,
+                      "width": 39,
+                      "height": 32,
+                      "rotation": 0
+                    },
+                    "children": [],
+                    "color": [
+                      0.07916665077209473,
+                      0.3922499120235443,
+                      1,
+                      0
+                    ]
+                  },
+                  {
+                    "id": "46:2",
+                    "type": "TEXT",
+                    "name": "f",
+                    "element": {
+                      "type": "text",
+                      "params": {}
+                    },
+                    "positioning": {
+                      "x": 87,
+                      "y": 145,
+                      "width": 5,
+                      "height": 14,
+                      "rotation": 0
+                    },
+                    "characters": "f",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "paragraphIdent": 0,
+                    "paragraphSpacing": 0,
+                    "fontSize": 12,
+                    "fontName": {
+                      "family": "Roboto",
+                      "style": "Regular"
+                    },
+                    "textDecoration": "NONE",
+                    "letterSpacing": "0%",
+                    "lineHeight": "auto",
+                    "color": [
+                      0,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "53:2",
+                "type": "GROUP",
+                "name": "Group 3",
+                "positioning": {
+                  "x": 287,
+                  "y": 20,
+                  "width": 72,
+                  "height": 91,
+                  "rotation": 0
+                },
+                "children": [
+                  {
+                    "id": "53:8",
+                    "type": "UNKNOWN",
+                    "name": "Rectangle 3",
+                    "element": {
+                      "type": "button",
+                      "params": {}
+                    },
+                    "positioning": {
+                      "x": 287,
+                      "y": 20,
+                      "width": 72,
+                      "height": 91,
+                      "rotation": 0
+                    },
+                    "figmaType": "VECTOR",
+                    "color": [
+                      1,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "30:2",
+                "type": "TEXT",
+                "name": "top left",
+                "element": {
+                  "type": "text",
+                  "params": null
+                },
+                "positioning": {
+                  "x": 19,
+                  "y": 20,
+                  "width": 140,
+                  "height": 28,
+                  "rotation": 0
+                },
+                "characters": "top left",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "textAutoResize": "NONE",
+                "paragraphIdent": 0,
+                "paragraphSpacing": 0,
+                "fontSize": 12,
+                "fontName": {
+                  "family": "Roboto",
+                  "style": "Regular"
+                },
+                "textDecoration": "NONE",
+                "letterSpacing": "0%",
+                "lineHeight": "auto",
+                "color": [
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              },
+              {
+                "id": "53:6",
+                "type": "GROUP",
+                "name": "Group 4",
+                "element": {
+                  "type": "button",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 89,
+                  "y": 28,
+                  "width": 61,
+                  "height": 22,
+                  "rotation": 0
+                },
+                "children": [
+                  {
+                    "id": "34:2",
+                    "type": "TEXT",
+                    "name": "1231",
+                    "element": {
+                      "type": "text",
+                      "params": {}
+                    },
+                    "positioning": {
+                      "x": 89,
+                      "y": 28,
+                      "width": 61,
+                      "height": 22,
+                      "rotation": 0
+                    },
+                    "characters": "1231\n",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "textAutoResize": "NONE",
+                    "paragraphIdent": 0,
+                    "paragraphSpacing": 0,
+                    "fontSize": 12,
+                    "fontName": {
+                      "family": "Roboto",
+                      "style": "Regular"
+                    },
+                    "textDecoration": "NONE",
+                    "letterSpacing": "0%",
+                    "lineHeight": "auto",
+                    "color": [
+                      0,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "37:5",
+                "type": "TEXT",
+                "name": "text nou",
+                "element": {
+                  "type": "text",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 39,
+                  "y": 270,
+                  "width": 111,
+                  "height": 15,
+                  "rotation": 0
+                },
+                "characters": "text nou\n",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "textAutoResize": "NONE",
+                "paragraphIdent": 0,
+                "paragraphSpacing": 0,
+                "fontSize": 12,
+                "fontName": {
+                  "family": "Roboto",
+                  "style": "Regular"
+                },
+                "textDecoration": "NONE",
+                "letterSpacing": "0%",
+                "lineHeight": "auto",
+                "color": [
+                  0,
+                  0.2799999713897705,
+                  1,
+                  1
+                ]
+              },
+              {
+                "id": "37:6",
+                "type": "UNKNOWN",
+                "name": "Rectangle 6",
+                "element": {
+                  "type": "removed",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 37,
+                  "y": 245,
+                  "width": 126,
+                  "height": 25,
+                  "rotation": 0
+                },
+                "figmaType": "RECTANGLE",
+                "color": [
+                  1,
+                  0.06666666269302368,
+                  0.06666666269302368,
+                  1
+                ]
+              },
+              {
+                "id": "37:7",
+                "type": "TEXT",
+                "name": "x",
+                "element": {
+                  "type": "text",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 178,
+                  "y": 94,
+                  "width": 19,
+                  "height": 29,
+                  "rotation": 0
+                },
+                "characters": "x\n",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "textAutoResize": "NONE",
+                "paragraphIdent": 0,
+                "paragraphSpacing": 0,
+                "fontSize": 12,
+                "fontName": {
+                  "family": "Roboto",
+                  "style": "Regular"
+                },
+                "textDecoration": "NONE",
+                "letterSpacing": "0%",
+                "lineHeight": "auto",
+                "color": [
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              },
+              {
+                "id": "43:2",
+                "type": "UNKNOWN",
+                "name": "Star 1",
+                "element": {
+                  "type": "image",
+                  "params": null
+                },
+                "positioning": {
+                  "x": 271,
+                  "y": 152,
+                  "width": 143,
+                  "height": 155,
+                  "rotation": 0
+                },
+                "figmaType": "STAR",
+                "color": [
+                  0.08000004291534424,
+                  1,
+                  0,
+                  1
+                ]
+              },
+              {
+                "id": "53:3",
+                "type": "UNKNOWN",
+                "name": "Vector 1",
+                "element": {
+                  "type": "image",
+                  "params": {}
+                },
+                "positioning": {
+                  "x": 76,
+                  "y": 430,
+                  "width": 86.72837829589844,
+                  "height": 73.25945281982422,
+                  "rotation": 0
+                },
+                "figmaType": "VECTOR"
+              },
+              {
+                "id": "62:1",
+                "type": "FRAME",
+                "name": "Frame 5",
+                "positioning": {
+                  "x": 193,
+                  "y": 193,
+                  "width": 94,
+                  "height": 59,
+                  "rotation": 0
+                },
+                "children": [
+                  {
+                    "id": "62:2",
+                    "type": "TEXT",
+                    "name": "sadasd",
+                    "positioning": {
+                      "x": 0,
+                      "y": 0,
+                      "width": 44,
+                      "height": 22,
+                      "rotation": 0
+                    },
+                    "characters": "sadasd",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "textAutoResize": "NONE",
+                    "paragraphIdent": 0,
+                    "paragraphSpacing": 0,
+                    "fontSize": 12,
+                    "fontName": {
+                      "family": "Roboto",
+                      "style": "Regular"
+                    },
+                    "textDecoration": "NONE",
+                    "letterSpacing": "0%",
+                    "lineHeight": "auto",
+                    "color": [
+                      0,
+                      0,
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "color": [
+                  0.016666650772094727,
+                  1,
+                  0.1740000694990158,
+                  1
+                ]
+              },
+              {
+                "id": "65:3",
+                "type": "TEXT",
+                "name": "bottom left",
+                "positioning": {
+                  "x": 13,
+                  "y": 615,
+                  "width": 91,
+                  "height": 18,
+                  "rotation": 0
+                },
+                "characters": "bottom left",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "textAutoResize": "NONE",
+                "paragraphIdent": 0,
+                "paragraphSpacing": 0,
+                "fontSize": 12,
+                "fontName": {
+                  "family": "Roboto",
+                  "style": "Regular"
+                },
+                "textDecoration": "NONE",
+                "letterSpacing": "0%",
+                "lineHeight": "auto",
+                "color": [
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              },
+              {
+                "id": "65:4",
+                "type": "TEXT",
+                "name": "bottom right",
+                "positioning": {
+                  "x": 279,
+                  "y": 611,
+                  "width": 80,
+                  "height": 26,
+                  "rotation": 0
+                },
+                "characters": "bottom right",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "textAutoResize": "NONE",
+                "paragraphIdent": 0,
+                "paragraphSpacing": 0,
+                "fontSize": 12,
+                "fontName": {
+                  "family": "Roboto",
+                  "style": "Regular"
+                },
+                "textDecoration": "NONE",
+                "letterSpacing": "0%",
+                "lineHeight": "auto",
+                "color": [
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              },
+              {
+                "id": "65:5",
+                "type": "TEXT",
+                "name": "top right",
+                "positioning": {
+                  "x": 311,
+                  "y": 12,
+                  "width": 51,
+                  "height": 12,
+                  "rotation": 0
+                },
+                "characters": "top right",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "textAutoResize": "NONE",
+                "paragraphIdent": 0,
+                "paragraphSpacing": 0,
+                "fontSize": 12,
+                "fontName": {
+                  "family": "Roboto",
+                  "style": "Regular"
+                },
+                "textDecoration": "NONE",
+                "letterSpacing": "0%",
+                "lineHeight": "auto",
+                "color": [
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            ],
+            "color": [
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3:4",
+        "type": "PAGE",
+        "name": "Page 2",
+        "children": [
+          {
+            "id": "3:26",
+            "type": "FRAME",
+            "name": "Frame 2",
+            "positioning": {
+              "x": -42,
+              "y": -287,
+              "width": 100,
+              "height": 100,
+              "rotation": 0
+            },
+            "children": []
+          },
+          {
+            "id": "3:18",
+            "type": "UNKNOWN",
+            "name": "Vector 2",
+            "positioning": {
+              "x": -66,
+              "y": -279,
+              "width": 99.12096405029297,
+              "height": 104.67041778564453,
+              "rotation": 0
+            },
+            "figmaType": "VECTOR"
+          }
+        ]
+      }
+    ]
+  },
+  "images": {
+    "65:2": "iVBORw0KGgoAAAANSUhEUgAAAIkAAACRCAYAAAD3oZs/AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFZSURBVHgB7dIBDYAwEACxPcaZuekaBkjOQKuhc8557717wY+Z2c+CIAlJEpIkJElIkpAkIUlCkoQkCUkSkiQkSUiSkCQhSUKShCQJSRKSJCRJSJKQJCFJQpKEJAlJEpIkJElIkpAkIUlCkoQkCUkSkiQkSUiSkCQhSUKShCQJSRKSJCRJSJKQJCFJQpKEJAlJEpIkJElIkpAkIUlCkoQkCUkSkiQkSUiSkCQhSUKShCQJSRKSJCRJSJKQJCFJQpKEJAlJEpIkJElIkpAkIUlCkoQkCUkSkiQkSUiSkCQhSUKShCQJSRKSJCRJSJKQJCFJQpKEJAlJEpIkJElIkpAkIUlCkoQkCUkSkiQkSUiSkCQhSUKShCQJSRKSJCRJSJKQJCFJQpKEJAlJEpIkJElIkpAkIUlCkoQkCUkSkiQkSUiSkCQhSUKShCQJSRKSJCRJSJKQJCFJQvoAoD4H8CH8ZCUAAAAASUVORK5CYII=",
+    "43:2": "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",
+    "53:3": "iVBORw0KGgoAAAANSUhEUgAAAFkAAABLCAYAAAAbFSs/AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAS0SURBVHgB7Zw/VhsxEMa//ClSQpcOpUsHOQF7A0iXDnICuIHhBOQGgRMkKVOxOQF2mSrOCSAnIPqQhhXGgY31Z6VFv/fmYe+zsffz7GhmJO0zjJc1bTvalLYrbVNtPzAALzBOKO5X+5gCv9b2QdsRjPhzbX9Q8ULBiLns+Gdtv7TtoRIVBSM0Bd9AJSoTGLGr0JE5gBF6E5WobKMKnQQKXIVOQBU6ERT4EnUwjA5z6Jp1JIDp3QWWFzWVgJzAFCyVyNCbJ6hERcHE521UokKBa8aRAJbf56hEhyIfoBIVBRM2anyODGddOBD2zp/HOv0Uk58wHt1o+45KNOjFNa1LQO+w8QzjgTlsg24SVU5+7ljoJQHMNlptxw+9qHSRebnuatuHmfpvYcTkY5nyp/hbMOIr+5pTbd/gj4IRutH2GyNDwZwc06mJfd73fXv2vaGWBUwwwiKFxcAl/IuCBkZoCuRbLo9mEGSMZdsxhCguIZYFUOALFA4F5kmcIA4hZkLOUfCqJBE4dk/3AH7eKMsKiuQE8Tx4Ed8GEN+/g8KQeJkK6Rv7vL+oTENhmBljiuSTKfBHulMF5twgYnw8QvqF2wqmeFm1+fNW2yttMznwHHnCUZor48+QHn6uwurQKRpkjsKwC0t84ypDxZ24nqMnc3RuUW4v4Mralhx4ifw4RAGX2yNwvwqvCIae7DyZsXiOYb2YHjiFHzM4npwbOSTzX+BfHitkWv0p5PHFQg26t/lyTuGCMazFsPA7cNAKEa6m9v9lJfI+ug2OQ36HTwiDb74dhXvlaGIUwubn+8hs2W0OTW9+fsh+8O055RIuQqRNPrDbx1gcsoxnXM9qlT77xUMt5JPNkjHK+GtkxFD5cYj5vYe4+d85ldUpb43Ay5gCc81Gg8gVZi4xWSFdIeIOsu8QV2DG+fUcG0SxoLhHMD/oR6QpfCjyWq5N+5BIf5iFTgvjvS0SMlZPZsxlzsuYq2CquPcwnvVkYYwM0Rqk17KLJsuvGgzLkDM892D5uWq1RWGZZ7Msl3UTuRQBN60Chgvmp7ysphjutl5zGE/uW3G5S2b5nVttb5BfOOCPfUWR2cVX1iRvFMFb+3eGuPAzDh95Db8wvXTXPj6FGcTmyJNHWwUNzAkxvjFeyqXIy5Kev4mwyAzv2pLjsknx0n5+gzKgTtSv90p7nix/mW37d8secz2el+oMq1+yFFJ6uQ26rQlMvc7s55SUHdAh+H2PfbYziPD06sZ5TkQQ2twek+fyXtdkuwEfSz47w/AzJT7QabiXpI2xZ0REEwE3nOPuZhkiezvkR5FUrvT9FwrmXNaRIWzaFLUq8h8wHc1qVsRlLJsQ6cUNMqb0e0sUs+I+5mxFbIraOxJ71iIGssGnKGTPXgmeIeNJcXtGiELXVct5QGQ2kWoDUTTkUswx5kloGw0UmCmS7I0eOmaXOHb0hpUhL1FpXlHw1H1khofRCrwIBWbH6xqd4KE7hS6SC/Mzn9RNRQhPuIEZ4Rt7zO2L+0xI0Ft3rZGb5k+fN45N5EUUjNc16Fq0FHvumNspFKSZpdDd1EkmCngzkhb/wdhFXoa0VTfQtVfVwmvcNi07gi08ZmD+AkbXGw9Tvje3AAAAAElFTkSuQmCC"
+  }
+}
